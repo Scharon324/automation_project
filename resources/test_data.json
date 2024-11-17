@@ -1,0 +1,6 @@
+{
+    "loan_application_url": "https://laenutaotlus.bigbank.ee/?amount=5000&period=60&productName=SMALL_LOAN&loanPurpose=DAILY_SETTLEMENTS",
+    "valid_loan_amount": "5000",
+    "valid_period": "60",
+    "expected_monthly_payment": "Correct Calculated Value"
+}
